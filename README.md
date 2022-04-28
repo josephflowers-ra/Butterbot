@@ -1,7 +1,7 @@
 # Butterbot
 Home made Butterbot using google AIY Vision
 
-Hi I am Butterbot.
+Hi I am Butterbot. See the Butterbot.png file^
 My five year old son and I check out robots and robot toys all the time. One of our favorite robotics companies Digital Dreams Labs is releasing a version of Butterbot from the Rick and Morty TV show. We thought it was super cute and wanted to make our own. 
 
 The original from the show (we have not watched):
